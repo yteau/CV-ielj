@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+
+html {
+    font-family: "Lucida Console", Courier, monospace;
+    font-size: 1.2em;
+    font-size size-adjust: 0.5;
+    color: white;
+  }
+
+  h6 {
+    font-size: medium;
+  }
